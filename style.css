@@ -488,10 +488,14 @@
     margin:0 auto;
 }
 /* About me section */
+.about-me-slogans div {
+    width: 45%;
+}
 
 .about-me-slogans {
     margin-top: 3rem;
     width: 100%;
+    display: block;
     float: none;
     margin-bottom: 0;
 }
@@ -582,7 +586,7 @@
 
 /* Skills section */
 .skills-section {
-    height: 60vh;
+    height: 30vh;
     margin-top: 0;
     width: 100%;
 }
