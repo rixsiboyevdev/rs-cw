@@ -387,7 +387,7 @@
 .skills-section {
     width: 100%;
     margin-top: 100px;
-    height: 80vh;
+    height: 50vh;
     background-color: black;
     color: white;
    
@@ -582,6 +582,7 @@
 
 /* Skills section */
 .skills-section {
+    height: 100vh;
     margin-top: 0;
     width: 100%;
 }
