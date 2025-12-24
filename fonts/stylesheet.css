@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-MediumItalic.eot');
+    src: url('./fonts/RobotoMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-MediumItalic.woff2') format('woff2'),
+        url('./fonts/RobotoMono-MediumItalic.woff') format('woff'),
+        url('./fonts/RobotoMono-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-BoldItalic.eot');
+    src: url('./fonts/RobotoMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-BoldItalic.woff2') format('woff2'),
+        url('./fonts/RobotoMono-BoldItalic.woff') format('woff'),
+        url('./fonts/RobotoMono-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-Light.eot');
+    src: url('./fonts/RobotoMono-Light.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-Light.woff2') format('woff2'),
+        url('./fonts/RobotoMono-Light.woff') format('woff'),
+        url('./fonts/RobotoMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-ExtraLightItalic.eot');
+    src: url('./fonts/RobotoMono-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-ExtraLightItalic.woff2') format('woff2'),
+        url('./fonts/RobotoMono-ExtraLightItalic.woff') format('woff'),
+        url('./fonts/RobotoMono-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-ExtraLight.eot');
+    src: url('./fonts/RobotoMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-ExtraLight.woff2') format('woff2'),
+        url('./fonts/RobotoMono-ExtraLight.woff') format('woff'),
+        url('./fonts/RobotoMono-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-SemiBold.eot');
+    src: url('./fonts/RobotoMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-SemiBold.woff2') format('woff2'),
+        url('./fonts/RobotoMono-SemiBold.woff') format('woff'),
+        url('./fonts/RobotoMono-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-Medium.eot');
+    src: url('./fonts/RobotoMono-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-Medium.woff2') format('woff2'),
+        url('./fonts/RobotoMono-Medium.woff') format('woff'),
+        url('./fonts/RobotoMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-Italic.eot');
+    src: url('./fonts/RobotoMono-Italic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-Italic.woff2') format('woff2'),
+        url('./fonts/RobotoMono-Italic.woff') format('woff'),
+        url('./fonts/RobotoMono-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-Bold.eot');
+    src: url('./fonts/RobotoMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-Bold.woff2') format('woff2'),
+        url('./fonts/RobotoMono-Bold.woff') format('woff'),
+        url('./fonts/RobotoMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-LightItalic.eot');
+    src: url('./fonts/RobotoMono-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-LightItalic.woff2') format('woff2'),
+        url('./fonts/RobotoMono-LightItalic.woff') format('woff'),
+        url('./fonts/RobotoMono-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-Regular.eot');
+    src: url('./fonts/RobotoMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-Regular.woff2') format('woff2'),
+        url('./fonts/RobotoMono-Regular.woff') format('woff'),
+        url('./fonts/RobotoMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-SemiBoldItalic.eot');
+    src: url('./fonts/RobotoMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-SemiBoldItalic.woff2') format('woff2'),
+        url('./fonts/RobotoMono-SemiBoldItalic.woff') format('woff'),
+        url('./fonts/RobotoMono-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-ThinItalic.eot');
+    src: url('./fonts/RobotoMono-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-ThinItalic.woff2') format('woff2'),
+        url('./fonts/RobotoMono-ThinItalic.woff') format('woff'),
+        url('./fonts/RobotoMono-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./fonts/RobotoMono-Thin.eot');
+    src: url('./fonts/RobotoMono-Thin.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoMono-Thin.woff2') format('woff2'),
+        url('./fonts/RobotoMono-Thin.woff') format('woff'),
+        url('./fonts/RobotoMono-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
